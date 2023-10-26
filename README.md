@@ -24,13 +24,13 @@ Bu depo, Kodluyoruz'un ilk re örneği olarak oluşturulmuştur.
 
 ## Kurulum
 
-Bu projeyi klonlayın:
+
 
 ## Kullanım
 
-Projeyi klonladıktan sonra kodlarınızı burada düzenleyebilirsiniz.
+
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+
 
